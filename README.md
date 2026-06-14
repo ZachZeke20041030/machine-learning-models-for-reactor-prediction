@@ -39,5 +39,8 @@ See `requirements.txt`
 
 # INSTRUCTIONS
 - Ensure that all libraries within the requirements are installed.
-- Install `Nuclear Data.csv` and `Supervised_Models_on_ReactorData.py`. Ensure they're on the same folder.
+- Install `Nuclear Data.csv` and `Supervised_Models_on_ReactorData.py`.Ensure they're on the same folder, and Python is installed in computer.
 - Run the Python file.
+
+- Alternatively, install `Supervised_Models_on_ReactorData.ipynb` 
+- Make sure to run in compatible software: Jupyter/VSCode/Colab
