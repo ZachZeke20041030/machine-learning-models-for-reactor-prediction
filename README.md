@@ -37,7 +37,7 @@ https://www.iaea.org/publications/15752/operating-experience-with-nuclear-power-
 # REQUIREMENTS
 See `requirements.txt`
 
-#INSTRUCTIONS
+# INSTRUCTIONS
 -Ensure that all libraries within the requirements are installed.
 -Install `Nuclear Data.csv` and `Supervised_Models_on_ReactorData.py`. Ensure they're on the same folder.
 -Run the Python file.
