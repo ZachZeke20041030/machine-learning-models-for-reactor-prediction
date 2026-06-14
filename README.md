@@ -5,7 +5,7 @@ This model aims to predict key nuclear reactor outputs:
 
 using supervised machine learning models.
 
-# Models
+# MODELS
 - Decision Tree
 - Random Forest
 - Gradient Boosting
@@ -15,7 +15,7 @@ using supervised machine learning models.
 - Stacking Ridge (meta-learning)
 - PINN (Physics-Informed Neural Network, 4 hidden layers)
 
-# Dataset
+# DATASET
 ## Categorical parameters:
 - Reactor type
 ## Input parameters:
@@ -34,5 +34,10 @@ using supervised machine learning models.
 ## Dataset Source:
 https://www.iaea.org/publications/15752/operating-experience-with-nuclear-power-stations-in-member-states-2024-edition
 
-# Requirements
+# REQUIREMENTS
 See `requirements.txt`
+
+#INSTRUCTIONS
+-Ensure that all libraries within the requirements are installed.
+-Install `Nuclear Data.csv` and `Supervised_Models_on_ReactorData.py`. Ensure they're on the same folder.
+-Run the Python file.
