@@ -5,7 +5,7 @@ This model aims to predict key nuclear reactor outputs:
 
 using supervised machine learning models.
 
-## Models
+# Models
 - Decision Tree
 - Random Forest
 - Gradient Boosting
@@ -15,10 +15,10 @@ using supervised machine learning models.
 - Stacking Ridge (meta-learning)
 - PINN (Physics-Informed Neural Network, 4 hidden layers)
 
-## Dataset
-# Categorical parameters:
+# Dataset
+## Categorical parameters:
 - Reactor type
-# Input parameters:
+## Input parameters:
 - Fuel enrichment
 - Core height
 - Core diameter
@@ -26,13 +26,13 @@ using supervised machine learning models.
 - Fuel assemblies
 - Control rod assemblies
 - Coolant pressure
-# Output parameters:
+## Output parameters:
 - Outlet Temperature
 - Thermal Power
 - Gross Electrical Power
 
-# Dataset Source:
+## Dataset Source:
 https://www.iaea.org/publications/15752/operating-experience-with-nuclear-power-stations-in-member-states-2024-edition
 
-## Requirements
+# Requirements
 See `requirements.txt`
