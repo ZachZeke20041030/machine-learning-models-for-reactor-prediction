@@ -43,4 +43,4 @@ See `requirements.txt`
 - Run the Python file.
 
 - Alternatively, install `Supervised_Models_on_ReactorData.ipynb` 
-- Make sure to run in compatible software: Jupyter/VSCode/Colab
+- Make sure to run Jupyter file in compatible software: Jupyter/VSCode/Colab
