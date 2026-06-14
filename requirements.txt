@@ -3,7 +3,8 @@ numpy
 scikit-learn
 torch
 optuna
-ipython
-openpyxl
-matplotlib
 seaborn
+matplotlib
+ipython
+iapws
+SALib
